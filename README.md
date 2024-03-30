@@ -697,6 +697,7 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
 ~~~
 
 ## OUTPUT:
+![Screenshot 2024-03-30 183454](https://github.com/Guhanandan/simplewebserver/assets/100425381/9a72f91d-381a-4a9f-a54f-265b24351604)
 
 
 ## RESULT:
